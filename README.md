@@ -1,7 +1,7 @@
-# Floyd Q - Exynos8890
-* BUG reports repo for [LeeXDA_Rom](https://bit.ly/3cEpe0N)
+# LeeXDA_Rom
+* BUG reports repo for [LeeXDA_Rom](Add XDA link to ROM)
 
-Full permission to use from @Anan1211 @xda-developers.
+Full permission to use from @ananjaser1211
 
 #### How to write issues
 
