@@ -1,7 +1,7 @@
 # Floyd Q - Exynos8890
-* BUG reports repo for [FloydQ](https://bit.ly/3cEpe0N)
+* BUG reports repo for [LeeXDA_Rom](https://bit.ly/3cEpe0N)
 
-![alt text](https://img.xda-cdn.com/cldaHm1TJoKn59LmNlV7fnkohwI=/https%3A%2F%2Fi.ibb.co%2FSssNGFz%2Ffinal-banner.png)
+Full permission to use from @Anan1211 @xda-developers.
 
 #### How to write issues
 
@@ -12,7 +12,7 @@
 * Gather logs!
 
 #### How to gather logs with **LoggingKit**
-* Clone/Fork the Repo or Download the kit via [Releases](https://github.com/ananjaser1211/FloydQ_Reports/releases)
+* Clone/Fork the Repo or Download the kit via [Releases](https://github.com/Lethany/LeeXDA_Rom_Reports/releases)
 #### [With booted System] - **Intended for Crashes, FCs and other SYSTEM Logs**
 
 1) For Windows users: Install **Universal ADB drivers** or **Brand specific ADB drivers** if you don't have them
